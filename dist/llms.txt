@@ -1,0 +1,32 @@
+# CoGuava
+
+> CoGuava is a business-partner matching platform. Its purpose is to help people find a compatible startup cofounder, franchise co-owner, local-business partner, or podcast co-host.
+
+## What CoGuava does
+
+- Matches you by what you want to build, location, contribution, experience, desired involvement, and timeline.
+- Helps people in the same city combine complementary capital, skills, experience, ideas, and time.
+- Helps you discover nearby people who want to build the same thing—even if you might never otherwise meet.
+- Uses mutual interest before opening a private conversation.
+- Is designed around identity checks, clear intentions, and private, consent-based verification.
+
+## Primary use cases
+
+- Find a startup cofounder.
+- Find a franchise partner or franchise co-owner.
+- Find a local small-business partner for a brick-and-mortar business.
+- Find a podcast co-host.
+
+## Important limitations
+
+CoGuava is a matching and introduction platform. It does not guarantee business success, process investments, sell ownership interests, or replace legal, financial, franchise, or business due diligence.
+
+## Core message
+
+Your cofounder, found. Find your business soulmate and build something real together.
+
+## Canonical page
+
+- https://coguava.carrrieon.chatgpt.site/
+- About CoGuava: https://coguava.carrrieon.chatgpt.site/about/
+- Notes for Entrepreneurs: https://coguava.carrrieon.chatgpt.site/notes/

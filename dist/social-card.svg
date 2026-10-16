@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#050505"/>
+  <path d="M0 105H1200M0 210H1200M0 315H1200M0 420H1200M0 525H1200M200 0V630M400 0V630M600 0V630M800 0V630M1000 0V630" stroke="#181818" stroke-width="1"/>
+  <image href="assets/coguava-mark-rough.png" x="61" y="42" width="104" height="104"/>
+  <text x="178" y="109" fill="#F5F5F2" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="700" letter-spacing="4">COGUAVA</text>
+  <text x="72" y="286" fill="#F5F5F2" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="600" letter-spacing="-4">Your cofounder,</text>
+  <text x="72" y="374" fill="#B9E45A" font-family="Georgia, serif" font-size="86" font-style="italic">found.</text>
+  <line x1="72" y1="474" x2="1128" y2="474" stroke="#3A3A38"/>
+  <text x="72" y="530" fill="#A7A7A2" font-family="Arial, Helvetica, sans-serif" font-size="22">Find the person you were meant to build with.</text>
+  <circle cx="1080" cy="522" r="28" fill="#B9E45A"/>
+  <text x="1069" y="532" fill="#050505" font-family="Arial, Helvetica, sans-serif" font-size="28">↗</text>
+</svg>
