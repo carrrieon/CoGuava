@@ -162,7 +162,19 @@ document.querySelectorAll(".modal-next").forEach((button) => {
       showToast("Choose what you want to build first.");
       return;
     }
-    showFormStep(Math.min(3, formStep + 1));
+    if (formStep === 2 && !profileForm.querySelector('input[name="interest"]:checked')) {
+      showToast("Choose one interest to start.");
+      return;
+    }
+    if (formStep === 3 && !profileForm.querySelector('input[name="bring"]:checked')) {
+      showToast("Choose at least one thing you can bring.");
+      return;
+    }
+    if (formStep === 4 && !profileForm.querySelector('input[name="need"]:checked')) {
+      showToast("Choose at least one thing you are looking for.");
+      return;
+    }
+    showFormStep(Math.min(5, formStep + 1));
   });
 });
 
@@ -189,7 +201,7 @@ profileForm.addEventListener("submit", (event) => {
 });
 
 const trustModal = document.querySelector("#trust-modal");
-document.querySelector("[data-open-trust]").addEventListener("click", () => trustModal.showModal());
+document.querySelector("[data-open-trust]")?.addEventListener("click", () => trustModal.showModal());
 
 [profileModal, trustModal].forEach((dialog) => {
   dialog.addEventListener("click", (event) => {

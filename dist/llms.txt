@@ -4,11 +4,23 @@
 
 ## What CoGuava does
 
-- Matches you by what you want to build, location, contribution, experience, desired involvement, and timeline.
+- Matches you by what you want to build, what you bring, what you need, your location, and your preferred distance.
 - Helps people in the same city combine complementary capital, skills, experience, ideas, and time.
 - Helps you discover nearby people who want to build the same thing—even if you might never otherwise meet.
 - Uses mutual interest before opening a private conversation.
-- Is designed around identity checks, clear intentions, and private, consent-based verification.
+- Is designed to verify identity and contact information rather than ranking people by job title, school, résumé, or professional status.
+
+## Who CoGuava is for
+
+CoGuava is for everyday people who want to start something, including people building a side business. A hairstylist, accountant, parent, engineer, student, or restaurant worker may all have a valuable idea and be searching for the missing person who can help bring it to life. LinkedIn and professional history are optional.
+
+## Trust model
+
+- Government ID and a live selfie are intended to confirm that a visible profile belongs to a real adult.
+- Email and phone verification help reduce duplicate and disposable accounts.
+- Profiles show a city and approximate distance rather than an exact address.
+- Messaging opens only after mutual interest.
+- Identity verification confirms the person; it does not endorse the person's skills, finances, personality, or business idea.
 
 ## Primary use cases
 
@@ -28,5 +40,5 @@ Your cofounder, found. Find your business soulmate and build something real toge
 ## Canonical page
 
 - https://coguava.carrrieon.chatgpt.site/
-- About CoGuava: https://coguava.carrrieon.chatgpt.site/about/
+- Why CoGuava: https://coguava.carrrieon.chatgpt.site/why/
 - Notes for Entrepreneurs: https://coguava.carrrieon.chatgpt.site/notes/
